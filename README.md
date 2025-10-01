@@ -4,7 +4,7 @@
 
 This hands-on lab establishes a functional SOC environment using LimaCharlie EDR to simulate real-world cyber attacks, engineer custom detection rules, and implement automated response mechanisms. The lab focuses on developing practical skills in threat detection, behavioral analysis, and incident response through hands-on adversary emulation.
 
-⚠️ All techniques were executed in a safe, isolated lab environment for educational purposes only.
+⚠️ All lab activities were conducted in a safe, isolated environment for educational purposes only. 
 
 ### Skills Learned
 - Deployed and configured LimaCharlie EDR with Sysmon log ingestion for comprehensive endpoint monitoring and telemetry collection
